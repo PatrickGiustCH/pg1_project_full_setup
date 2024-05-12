@@ -1,10 +1,14 @@
 [submodule "dev_ws/src/pg1_project"]
 	path = dev_ws/src/pg1_project
 	url = https://github.com/PatrickGiustCH/pg1_project.git
+	branch = Humble
 
 [submodule "dev_ws/src/rplidar_ros"]
 	path = dev_ws/src/rplidar_ros
 	url = https://github.com/Slamtec/rplidar_ros.git
+	branch = ros2
+
 [submodule "dev_ws/src/odrive_ros2_control"]
 	path = dev_ws/src/odrive_ros2_control
 	url = https://github.com/Factor-Robotics/odrive_ros2_control.git
+	branch = humble-fw-v0.5.1

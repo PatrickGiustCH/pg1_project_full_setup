@@ -18,7 +18,7 @@ docker run -it --rm \
     --device /dev/ttyACM0 \
     --env="DISPLAY=$DISPLAY" \
     --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
-    --volume="/home/pgiust/PG_1_project/dev_ws:/home/ws" \
+    --volume="/home/pgiust/pg1_project_full_setup/dev_ws:/home/ws" \
     --env="XAUTHORITY=$XAUTH" \
     --volume="$XAUTH:$XAUTH" \
     --net=host \

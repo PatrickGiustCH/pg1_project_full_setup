@@ -1,3 +1,3 @@
-[submodule "/home/pgiust/pg1_project_full_setup/dev_ws/src/pg1_project"]
-	path = /home/pgiust/pg1_project_full_setup/dev_ws/src/pg1_project
+[submodule "dev_ws/src/pg1_project"]
+	path = /dev_ws/src/pg1_project
 	url = https://github.com/PatrickGiustCH/pg1_project.git

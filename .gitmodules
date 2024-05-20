@@ -1,6 +1,6 @@
 [submodule "dev_ws/src/pg1_project"]
 	path = dev_ws/src/pg1_project
-	url = https://github.com/PatrickGiustCH/pg1_project.git
+	url = git@github.com:PatrickGiustCH/pg1_project.git
 [submodule "dev_ws/src/rplidar_ros"]
 	path = dev_ws/src/rplidar_ros
 	url = https://github.com/Slamtec/rplidar_ros.git

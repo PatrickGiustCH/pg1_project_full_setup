@@ -26,8 +26,8 @@ RUN apt install joystick jstest-gtk evtest -y
 RUN apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 
 RUN apt install python3-pip -y
-RUN pip install setuptools==58.2.0 -y
-RUN pip install pyserial -y
+RUN pip install setuptools==58.2.0
+RUN pip install pyserial 
 
 RUN echo 'cd /home/ws' >> ~/.bashrc 
 RUN echo 'source /opt/ros/humble/setup.bash' >> ~/.bashrc 

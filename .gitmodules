@@ -7,3 +7,12 @@
 [submodule "dev_ws/src/odrive_ros2_control"]
 	path = dev_ws/src/odrive_ros2_control
 	url = https://github.com/Factor-Robotics/odrive_ros2_control.git
+[submodule "dev_ws/src/py_serial_pg1_hardware_monitor"]
+	path = dev_ws/src/py_serial_pg1_hardware_monitor
+	url = https://github.com/PatrickGiustCH/py_serial_pg1_hardware_monitor.git
+[submodule "dev_ws/src/ball_tracker"]
+	path = dev_ws/src/ball_tracker
+	url = https://github.com/joshnewans/ball_tracker.git
+[submodule "dev_ws/src/joy_tester"]
+	path = dev_ws/src/joy_tester
+	url = https://github.com/joshnewans/joy_tester.git

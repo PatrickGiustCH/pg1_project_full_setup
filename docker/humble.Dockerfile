@@ -23,6 +23,7 @@ RUN apt install ros-humble-slam-toolbox -y
 RUN apt install ros-humble-navigation2 ros-humble-nav2-bringup -y
 RUN apt install ros-humble-twist-mux -y
 RUN apt install joystick jstest-gtk evtest -y
+RUN apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 
 RUN apt install python3-pip -y
 RUN pip install setuptools==58.2.0 -y

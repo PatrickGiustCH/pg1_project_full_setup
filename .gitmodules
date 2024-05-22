@@ -16,3 +16,6 @@
 [submodule "dev_ws/src/joy_tester"]
 	path = dev_ws/src/joy_tester
 	url = https://github.com/joshnewans/joy_tester.git
+[submodule "dev_ws/src/pg1_docking_controller"]
+	path = dev_ws/src/pg1_docking_controller
+	url = git@github.com:PatrickGiustCH/pg1_docking_controller.git
